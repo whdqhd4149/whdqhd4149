@@ -1,18 +1,24 @@
-👋 안녕하세요. 백엔드 개발자 이종봉입니다.
+<p align="center">
+  <img src="배너이미지링크" width="100%">
+</p>
+
+# 👋 안녕하세요. 백엔드 개발자 이종봉입니다.
 
 Spring Boot 기반 웹 서비스 개발을 중심으로  
 다양한 프로젝트를 경험하며 꾸준히 배우고 성장하고 있습니다.
 
-### 💻 Backend Developer
-
 ---
 
-## 📚 교육 과정
+## 💻 Backend Developer
+
+### 📚 교육 과정
 
 - BNK 금융DT 아카데미 개발자 양성과정  
   (Java, Spring Boot, Flutter 기반 금융 서비스 개발)
 
-# 🛠 Tech Stack
+---
+
+## 🛠 Tech Stack
 
 | 구분 | 기술 |
 |-----|-----|
@@ -25,7 +31,7 @@ Spring Boot 기반 웹 서비스 개발을 중심으로
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
 
 | 프로젝트명 | 기술 스택 | 담당 기능 | 기간 |
 |---|---|---|---|
@@ -36,7 +42,7 @@ Spring Boot 기반 웹 서비스 개발을 중심으로
 
 ---
 
-# 🔗 Project Links
+## 🔗 Project Links
 
 ### BNK 2차 팀 프로젝트
 
@@ -72,9 +78,10 @@ Repository
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
-📧 Email : whdqhqd4149@gmail.com  
+📧 Email  
+whdqhqd4149@gmail.com  
 
 🔗 GitHub  
 https://github.com/whdqhqd4149
