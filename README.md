@@ -1,4 +1,4 @@
-## 👋 안녕하세요. 백엔드 개발자를 목표로 공부하고 있는 이종봉입니다.
+# 👋 안녕하세요. 백엔드 개발자를 목표로 공부하고 있는 이종봉입니다.
 
 부산은행 금융DT 아카데미 교육 과정을 통해  
 Spring Boot 기반 웹 서비스와 Flutter 모바일 앱을 활용한  
@@ -6,10 +6,15 @@ Spring Boot 기반 웹 서비스와 Flutter 모바일 앱을 활용한
 
 ---
 
-## 🛠 Tech Stack
+## 📚 교육 과정
+
+- BNK 금융DT 아카데미 개발자 양성과정  
+  (Java, Spring Boot, Flutter 기반 금융 서비스 개발)
+
+# 🛠 Tech Stack
 
 | 구분 | 기술 |
-|---|---|
+|-----|-----|
 | Language | Java |
 | Backend | Spring Boot, MyBatis, JPA |
 | Database | Oracle |
@@ -19,18 +24,56 @@ Spring Boot 기반 웹 서비스와 Flutter 모바일 앱을 활용한
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
 | 프로젝트명 | 기술 스택 | 담당 기능 | 기간 |
 |---|---|---|---|
-| **BNK 2차 팀 프로젝트** | Flutter / Spring Boot / Oracle | 펀드 상품 가입, 펀드 목록 | 25.12.09 ~ 26.01.08 |
-| **BNK 1차 팀 프로젝트** | Spring Boot / MyBatis / Oracle | 관리자 펀드 목록, 게시판 CRUD | 25.11.06 ~ 25.12.08 |
-| **Mini Project 2 (Green Garden)** | Spring Boot / JPA / Oracle | 로그인, 회원가입 | 25.10.01 ~ 25.10.21 |
-| **Mini Project 1 (Green University)** | Java / JSP / Oracle | 회원가입 | 25.09.01 ~ 25.09.12 |
+| BNK 2차 팀 프로젝트 | Flutter / Spring Boot / Oracle | 펀드 상품 가입, 펀드 목록 | 25.12.09 ~ 26.01.08 |
+| BNK 1차 팀 프로젝트 | Spring Boot / MyBatis / Oracle | 관리자 펀드 목록, 게시판 CRUD | 25.11.06 ~ 25.12.08 |
+| Mini Project 2 (Green Garden) | Spring Boot / JPA / Oracle | 로그인, 회원가입 | 25.10.01 ~ 25.10.21 |
+| Mini Project 1 (Green University) | Java / JSP / Oracle | 회원가입 | 25.09.01 ~ 25.09.12 |
 
 ---
 
-## 📫 Contact
+# 🔗 Project Links
 
-📧 Email : whdqhd4149@gmail.com  
-📱 Phone : 010-4335-4149
+### BNK 2차 팀 프로젝트
+
+Repository  
+➡️ (GitHub 링크 추가 예정)
+
+Demo Video  
+➡️ (영상 링크 추가 예정)
+
+---
+
+### BNK 1차 팀 프로젝트
+
+Repository  
+➡️ (GitHub 링크 추가 예정)
+
+Demo Video  
+➡️ (영상 링크 추가 예정)
+
+---
+
+### Mini Project 2 (Green Garden)
+
+Repository  
+➡️ (GitHub 링크 추가 예정)
+
+---
+
+### Mini Project 1 (Green University)
+
+Repository  
+➡️ (GitHub 링크 추가 예정)
+
+---
+
+# 📫 Contact
+
+📧 Email : whdqhqd4149@gmail.com  
+
+🔗 GitHub  
+https://github.com/whdqhqd4149
