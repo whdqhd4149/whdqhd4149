@@ -33,12 +33,12 @@ Spring Boot 기반 웹 서비스 개발을 중심으로
 
 ## 🚀 Projects
 
-| 프로젝트명 | 기술 스택 | 담당 기능 | 기간 |
-|---|---|---|---|
-| BNK 2차 팀 프로젝트 | Flutter / Spring Boot / Oracle | 펀드 상품 가입, 펀드 목록 | 25.12.09 ~ 26.01.08 |
-| BNK 1차 팀 프로젝트 | Spring Boot / MyBatis / Oracle | 관리자 펀드 목록, 게시판 CRUD | 25.11.06 ~ 25.12.08 |
-| Mini Project 2 (Green Garden) | Spring Boot / JPA / Oracle | 로그인, 회원가입 | 25.10.01 ~ 25.10.21 |
-| Mini Project 1 (Green University) | Java / JSP / Oracle | 회원가입 | 25.09.01 ~ 25.09.12 |
+| 프로젝트명 | 기술 스택 | 담당 기능 | 기간 | 시연 |
+|---|---|---|---|---|
+| BNK 2차 팀 프로젝트 | Flutter / Spring Boot / Oracle | 펀드 상품 가입, 펀드 목록 | 25.12.09 ~ 26.01.08 | [Demo](https://youtube.com/shorts/orwvMlBn5xQ) |
+| BNK 1차 팀 프로젝트 | Spring Boot / MyBatis / Oracle | 관리자 펀드 목록, 게시판 CRUD | 25.11.06 ~ 25.12.08 | [Demo](https://youtu.be/JDzkgc_QLtk) |
+| Mini Project 2 (Green Garden) | Spring Boot / JPA / Oracle | 로그인, 회원가입 | 25.10.01 ~ 25.10.21 | [Demo](https://www.youtube.com/watch?v=NSWUFVP9LXI) |
+| Mini Project 1 (Green University) | Java / JSP / Oracle | 회원가입 | 25.09.01 ~ 25.09.12 | [Demo](https://www.youtube.com/watch?v=Q9fOHitfcRI) |
 
 ---
 
@@ -50,7 +50,7 @@ Repository
 ➡️ (GitHub 링크 추가 예정)
 
 Demo Video  
-➡️ (영상 링크 추가 예정)
+➡️ [BNK 2차 팀 프로젝트 시연 영상](https://youtube.com/shorts/orwvMlBn5xQ)
 
 ---
 
@@ -60,7 +60,7 @@ Repository
 ➡️ (GitHub 링크 추가 예정)
 
 Demo Video  
-➡️ (영상 링크 추가 예정)
+➡️ [BNK 1차 팀 프로젝트 시연 영상](https://youtu.be/JDzkgc_QLtk)
 
 ---
 
@@ -69,12 +69,18 @@ Demo Video
 Repository  
 ➡️ (GitHub 링크 추가 예정)
 
+Demo Video  
+➡️ [Green Garden 시연 영상](https://www.youtube.com/watch?v=NSWUFVP9LXI)
+
 ---
 
 ### Mini Project 1 (Green University)
 
 Repository  
 ➡️ (GitHub 링크 추가 예정)
+
+Demo Video  
+➡️ [Green University 시연 영상](https://www.youtube.com/watch?v=Q9fOHitfcRI)
 
 ---
 
