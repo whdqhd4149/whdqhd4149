@@ -1,17 +1,15 @@
 
 # 👋 안녕하세요. 백엔드 개발자 이종봉입니다.
 
-Spring Boot 기반 웹 서비스 개발을 중심으로  
-다양한 프로젝트를 경험하며 꾸준히 배우고 성장하고 있습니다.
+Java와 Spring Boot 기반의 웹 서비스 개발을 학습하고 있습니다.  
+금융 서비스 프로젝트를 통해 백엔드 개발과 데이터베이스 연동 경험을 쌓았습니다.
 
 ---
 
-## 💻 Backend Developer
-
-### 📚 교육 과정
+## 📚 교육 과정
 
 - BNK 금융DT 아카데미 개발자 양성과정  
-  (Java, Spring Boot, Flutter 기반 금융 서비스 개발)
+  - Java, Spring Boot, Oracle, Flutter 기반 금융 서비스 팀 프로젝트 수행
 
 ---
 
