@@ -24,7 +24,7 @@ Spring Boot 기반 웹 서비스 개발을 중심으로
 | Database | Oracle |
 | Frontend | HTML, CSS, JavaScript, Flutter |
 | Infra | AWS EC2 |
-| Tools | Git, GitHub |
+| Tools | GitHub, IntelliJ IDEA, Eclipse, DBeaver, SQL Developer, Postman |
 
 ---
 
