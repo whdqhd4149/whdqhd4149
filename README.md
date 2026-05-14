@@ -70,7 +70,7 @@ Java와 Spring Boot 기반의 웹 서비스 개발을 학습하고 있습니다.
 ## 📫 Contact
 
 📧 Email  
-whdqhqd4149@gmail.com  
+whdqhd4149@gmail.com  
 
 🔗 GitHub  
 https://github.com/whdqhd4149
