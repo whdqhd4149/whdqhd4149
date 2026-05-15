@@ -18,11 +18,11 @@ Java와 Spring Boot 기반의 웹 서비스 개발을 학습하고 있습니다.
 | 구분 | 기술 |
 |-----|-----|
 | Language | Java |
-| Backend | Spring Boot, MyBatis, JPA |
+| Backend | Spring Boot, MyBatis |
 | Database | Oracle |
-| Frontend | HTML, CSS, JavaScript, Flutter |
+| Frontend | HTML, CSS, JavaScript |
 | Infra | AWS EC2 |
-| Tools | GitHub, IntelliJ IDEA, Eclipse, DBeaver, SQL Developer, Postman |
+| Tools | Git, GitHub, IntelliJ IDEA, DBeaver|
 
 ---
 
