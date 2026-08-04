@@ -50,8 +50,16 @@
 **2025.11 ~ 2025.12 · 5인 팀 프로젝트**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/whdqhd4149/busan-bank-project1-team3/main/docs/images/Fundlist.jpg" width="48%" alt="관리자 펀드 상품 목록">
-  <img src="https://raw.githubusercontent.com/whdqhd4149/busan-bank-project1-team3/main/docs/images/FundDetail.jpg" width="48%" alt="관리자 펀드 상품 상세">
+  <img
+    src="https://raw.githubusercontent.com/whdqhd4149/busan-bank-project1-team3/main/docs/images/Fundlist.jpg"
+    width="48%"
+    align="top"
+    alt="관리자 펀드 상품 목록">
+  <img
+    src="https://raw.githubusercontent.com/whdqhd4149/busan-bank-project1-team3/main/docs/images/FundDetail.jpg"
+    width="48%"
+    align="top"
+    alt="관리자 펀드 상품 상세">
 </p>
 
 | 항목 | 내용 |
@@ -77,10 +85,17 @@
 **2025.10 · 6인 팀 프로젝트**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/whdqhd4149/Project2_GreenGarden_Team3/main/docs/images/Login.jpg" width="48%" alt="로그인 화면">
-  <img src="https://raw.githubusercontent.com/whdqhd4149/Project2_GreenGarden_Team3/main/docs/images/GeneralRegister.jpg" width="48%" alt="일반회원 가입 화면">
+  <img
+    src="https://raw.githubusercontent.com/whdqhd4149/Project2_GreenGarden_Team3/main/docs/images/Login.jpg"
+    width="48%"
+    align="top"
+    alt="로그인 화면">
+  <img
+    src="https://raw.githubusercontent.com/whdqhd4149/Project2_GreenGarden_Team3/main/docs/images/GeneralRegister.jpg"
+    width="48%"
+    align="top"
+    alt="일반회원 가입 화면">
 </p>
-
 | 항목 | 내용 |
 |---|---|
 | **담당 역할** | 회원가입·로그인·계정 찾기·서비스 정책 |
@@ -104,9 +119,17 @@
 **2025.12 ~ 2026.01 · 팀 프로젝트**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/whdqhd4149/team3_flutter/main/docs/images/FundList.jpg" width="28%" alt="펀드 상품 목록">
+  <img
+    src="https://raw.githubusercontent.com/whdqhd4149/team3_flutter/main/docs/images/FundList.jpg"
+    width="28%"
+    align="top"
+    alt="펀드 상품 목록">
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/whdqhd4149/team3_flutter/main/docs/images/FundDetail.jpg" width="28%" alt="펀드 상품 상세">
+  <img
+    src="https://raw.githubusercontent.com/whdqhd4149/team3_flutter/main/docs/images/FundDetail.jpg"
+    width="28%"
+    align="top"
+    alt="펀드 상품 상세">
 </p>
 
 | 항목 | 내용 |
