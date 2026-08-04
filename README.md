@@ -161,12 +161,12 @@ JSP/Servlet과 JDBC를 이용한 대학 홈페이지 및 학사관리 웹 프로
 
 ## 📚 Education
 
-### BNK 부산은행 금융 DT 아카데미 개발자 양성과정
+### [BNK부산은행] 금융DT 아카데미(생성형 AI 활용, Java, Spring, Flutter) 개발자 양성과정
 
-**2025.07 ~ 2026.01**
+**한국표준협회 · 2025.07 ~ 2026.01**
 
-Java·Spring 기반 웹 개발과 Oracle 데이터베이스 연동, Flutter 모바일 연동을 학습하고,  
-금융 웹·앱 서비스를 중심으로 네 차례의 팀 프로젝트를 수행했습니다.
+생성형 AI 활용과 Java 기반 백엔드 개발, Oracle·SQL 데이터베이스, Spring Framework, Flutter를 학습하고,  
+금융 데이터 기반 웹·앱 서비스 프로젝트를 수행했습니다.
 
 ---
 
