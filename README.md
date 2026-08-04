@@ -7,15 +7,6 @@
 기능을 구현하는 데서 멈추지 않고,  
 **화면 → 요청 → 서버 → SQL → 데이터** 순서로 원인을 좁혀 해결합니다.
 
-<br>
-
-<a href="https://app.notion.com/p/3abc6ad5935a81dba773eb76760d32ec">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white">
-</a>
-<a href="mailto:whdqhd4149@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
-</a>
-
 </div>
 
 ---
@@ -157,13 +148,6 @@ JSP/Servlet과 JDBC를 이용한 대학 홈페이지 및 학사관리 웹 프로
 
 ---
 
-## 📫 Contact
-
-- **Email**: [whdqhd4149@gmail.com](mailto:whdqhd4149@gmail.com)
-- **Portfolio**: [Notion Portfolio](https://app.notion.com/p/3abc6ad5935a81dba773eb76760d32ec)
-
----
-
 <div align="center">
 
 현장에서 배운 책임감과 프로젝트에서 쌓은 문제 해결 경험을 바탕으로,  
@@ -172,3 +156,10 @@ JSP/Servlet과 JDBC를 이용한 대학 홈페이지 및 학사관리 웹 프로
 **함께 일할수록 믿음이 쌓이는 Java·Spring 백엔드 개발자가 되겠습니다.**
 
 </div>
+
+---
+
+## 📫 Contact
+
+- **GitHub**: [https://github.com/whdqhd4149](https://github.com/whdqhd4149)
+- **Email**: [whdqhd4149@gmail.com](mailto:whdqhd4149@gmail.com)
