@@ -52,12 +52,12 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/whdqhd4149/busan-bank-project1-team3/main/docs/images/Fundlist.jpg"
-    width="48%"
+    width="51%"
     align="top"
     alt="관리자 펀드 상품 목록">
   <img
     src="https://raw.githubusercontent.com/whdqhd4149/busan-bank-project1-team3/main/docs/images/FundDetail.jpg"
-    width="48%"
+    width="45%"
     align="top"
     alt="관리자 펀드 상품 상세">
 </p>
@@ -87,12 +87,12 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/whdqhd4149/Project2_GreenGarden_Team3/main/docs/images/Login.jpg"
-    width="48%"
+    width="57%"
     align="top"
     alt="로그인 화면">
   <img
     src="https://raw.githubusercontent.com/whdqhd4149/Project2_GreenGarden_Team3/main/docs/images/GeneralRegister.jpg"
-    width="48%"
+    width="39%"
     align="top"
     alt="일반회원 가입 화면">
 </p>
