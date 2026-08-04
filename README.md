@@ -163,11 +163,10 @@ JSP/Servlet과 JDBC를 이용한 대학 홈페이지 및 학사관리 웹 프로
 
 ### BNK 부산은행 금융 DT 아카데미 개발자 양성과정
 
-- Java, JSP/Servlet, Spring Boot, Spring Security
-- MyBatis, JPA, Oracle
-- Flutter와 Spring Boot REST API 연동
-- GitHub 브랜치와 Pull Request를 활용한 협업
-- 웹·금융·모바일 서비스 팀 프로젝트 4회 수행
+**2025.07 ~ 2026.01**
+
+Java·Spring 기반 웹 개발과 Oracle 데이터베이스 연동, Flutter 모바일 연동을 학습하고,  
+금융 웹·앱 서비스를 중심으로 네 차례의 팀 프로젝트를 수행했습니다.
 
 ---
 
